@@ -13,10 +13,3 @@ def pascal_triangle(n):
         my_arr.append(row)
 
     return my_arr
-
-
-# print(pascal_triangle(5))
-# my_arr = [[]]
-# my_arr[0] = [1]+[0]*(5-1)
-# print(my_arr)
-# print(my_arr[0][1])
