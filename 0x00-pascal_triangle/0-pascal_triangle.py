@@ -1,5 +1,14 @@
 #!/usr/bin/python3
+"""_summary"""
 def pascal_triangle(n):
+    """_summary_
+
+    Args:
+        n (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
     if n <= 0:
         return []
 
